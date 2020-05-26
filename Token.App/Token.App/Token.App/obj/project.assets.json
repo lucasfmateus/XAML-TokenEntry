@@ -571,8 +571,8 @@
     },
     "Token/1.0.0": {
       "type": "project",
-      "path": "../../Token/Token.csproj",
-      "msbuildProject": "../../Token/Token.csproj"
+      "path": "../../../Token/Token.csproj",
+      "msbuildProject": "../../../Token/Token.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -619,6 +619,9 @@
           "projectReferences": {
             "C:\\TokenEntry\\Token.App\\Token\\Token.csproj": {
               "projectPath": "C:\\TokenEntry\\Token.App\\Token\\Token.csproj"
+            },
+            "C:\\TokenEntry\\Token\\Token.csproj": {
+              "projectPath": "C:\\TokenEntry\\Token\\Token.csproj"
             }
           }
         }

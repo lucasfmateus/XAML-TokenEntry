@@ -1932,8 +1932,8 @@
     },
     "Token/1.0.0": {
       "type": "project",
-      "path": "../../Token/Token.csproj",
-      "msbuildProject": "../../Token/Token.csproj"
+      "path": "../../../Token/Token.csproj",
+      "msbuildProject": "../../../Token/Token.csproj"
     },
     "Token.App/1.0.0": {
       "type": "project",

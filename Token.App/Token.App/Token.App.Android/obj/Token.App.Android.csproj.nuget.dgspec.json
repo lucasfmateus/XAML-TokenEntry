@@ -86,6 +86,9 @@
             "projectReferences": {
               "C:\\TokenEntry\\Token.App\\Token\\Token.csproj": {
                 "projectPath": "C:\\TokenEntry\\Token.App\\Token\\Token.csproj"
+              },
+              "C:\\TokenEntry\\Token\\Token.csproj": {
+                "projectPath": "C:\\TokenEntry\\Token\\Token.csproj"
               }
             }
           }
@@ -134,6 +137,17 @@
         "projectUniqueName": "C:\\TokenEntry\\Token.App\\Token\\Token.csproj",
         "projectName": "Token",
         "projectPath": "C:\\TokenEntry\\Token.App\\Token\\Token.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\TokenEntry\\Token\\Token.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\TokenEntry\\Token\\Token.csproj",
+        "projectName": "Token",
+        "projectPath": "C:\\TokenEntry\\Token\\Token.csproj"
       },
       "frameworks": {
         "net472": {}
