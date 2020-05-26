@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Niuy3sQy+eNUKCukmSk84nu51GNQrIzVsJzRNVWZsbAYk3SyvFHfI+E0+w/gQBY3jOPH9SF/IOZM5PSE9kRIcQ==",
+  "success": true,
+  "projectFilePath": "C:\\TokenEntry\\Token.App\\Token.App\\Token.App.iOS\\Token.App.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PICHAU\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\PICHAU\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\PICHAU\\.nuget\\packages\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
